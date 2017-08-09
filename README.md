@@ -28,3 +28,9 @@ Executing
 ### set work directory
 
 -   creat a relative directory in which unzip the given file and at the end write final.txt into *./UCI HAR Dataset*.
+
+### run run\_analysis.R
+
+-   *source('run\_analysis.R')*
+
+-   global variables *Tidy.Data* (see CodeBook.md)
